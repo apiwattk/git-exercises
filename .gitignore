@@ -104,15 +104,15 @@ dist
 .tern-port
 
 #all files with exe extension
-.exe/
+*.exe
 
 #all files with o extension
-.o/
+*.o
 
 #all files with jar extension
-.jar/
+*.jar
 
 #the whole libraries directory
-libraries
+libraries/
 
 
