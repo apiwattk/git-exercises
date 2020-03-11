@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+#all files with exe extension
+.exe/
+
+#all files with o extension
+.o/
+
+#all files with jar extension
+.jar/
+
+#the whole libraries directory
+libraries
+
+
